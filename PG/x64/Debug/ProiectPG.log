@@ -1,0 +1,10 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Users\ivorn\OneDrive\Desktop\ProiectPG\ProiectPG\main.cpp(151,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ivorn\OneDrive\Desktop\ProiectPG\ProiectPG\main.cpp(152,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ivorn\OneDrive\Desktop\ProiectPG\ProiectPG\main.cpp(156,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ivorn\OneDrive\Desktop\ProiectPG\ProiectPG\main.cpp(157,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ivorn\OneDrive\Desktop\ProiectPG\ProiectPG\main.cpp(158,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\ivorn\OneDrive\Desktop\ProiectPG\ProiectPG\main.cpp(159,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ProiectPG.vcxproj -> C:\Users\ivorn\OneDrive\Desktop\ProiectPG\x64\Debug\ProiectPG.exe
